@@ -1,0 +1,19 @@
+Contributors.md
+  s_90a0ed418204c0::t_5967d07e2535ca 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "8fcaaaf49832e5ecc9d9d36cb221a99a925de45c",
+  "prompts": {},
+  "sessions": {
+    "s_90a0ed418204c0": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "26cc87a5-c8f1-4a51-95a0-f60d89740d3a",
+        "model": "auto"
+      },
+      "human_author": "Saqquibkhan00 <245874007+Saqquibkhan00@users.noreply.github.com>"
+    }
+  }
+}
